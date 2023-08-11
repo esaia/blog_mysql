@@ -26,4 +26,5 @@ The application is powered by a MySQL database, ensuring efficient data storage 
 
 ### screenshots
 
-![App Screenshot]('https://i.ibb.co/5THWsSL/You-Can-See-App-Here.png')
+![App Screenshot](https://i.ibb.co/5THWsSL/You-Can-See-App-Here.png)
+
